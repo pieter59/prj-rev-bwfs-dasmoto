@@ -1,0 +1,11 @@
+image1
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg
+
+image2
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/hacksaw.jpeg
+
+image3
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/frames.jpeg
+
+image4
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/finnish.jpeg
